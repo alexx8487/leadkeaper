@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "📚 domain",
+			"path": "./packages/domain"
+		},
+		{
+			"name": "📱 app",
+			"path": "./packages/app"
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "/node_modules/typescript/lib"
+	}
+}
